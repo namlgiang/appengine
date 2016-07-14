@@ -2,3 +2,5 @@
 runtime: nodejs
 vm: true
 instance_class: F1
+skip_files:
+ - ^node_modules$
